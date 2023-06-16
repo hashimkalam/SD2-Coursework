@@ -17,6 +17,8 @@ A new theatre company called ‘New Theatre’ has asked you to design and imple
 
 Read the above Coursework Specification for more in-depth information of the Project.
 
+Theatre folder contains all the codes written in Java.
+
 Self-Assessment Form.pdf includes some Test Cases and the Results.
 
 Copyright © 2023 Informatics Institute of Technology. All Rights Reserved
